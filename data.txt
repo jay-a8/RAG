@@ -1,0 +1,482 @@
+The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.The Nearly Autonomous Management and Control (NAMAC) system supports the advanced reactor operation by
+recommending control actions to operators based on real-time measurements and digital twins (DTs) learning
+from the knowledge base. To enable the safe and reliable use of autonomous technologies, NAMAC and
+its recommendations should be trustworthy to operators and regulators at both the design and operation
+stages. This study proposes a NAMAC trustworthiness modeling and evaluation framework supported by
+trustworthiness ontologies and evidence-based approaches. The development-time and run-time ontologies
+are separately constructed and then converted to Bayesian networks to quantitatively evaluate the NAMAC
+trustworthiness. This evaluation is demonstrated by collecting and characterizing evidence from NAMAC
+practices, such as the development and assessment of the NAMAC system, data coverage assessment, and
+the training and optimizations of neural-network-based DTs. Our proposed approach can aggregate various
+trustworthiness attributes of complex artificial-intelligence-supported systems for safety-critical applications.
+It also considers the interaction between different DTs and extends beyond the trustworthiness evaluation
+of a single DT. The evidence-based method enhances the transparency of the trustworthiness modeling and
+evaluation processes and helps identify uncertainties and subjectivity involved in the processes.
