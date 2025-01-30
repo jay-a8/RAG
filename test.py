@@ -57,32 +57,28 @@ retrieved_documents = retriever.invoke(query)
 
 # show the retrieved document's content
 relavent_doc = retrieved_documents[0].page_content
-print(relavent_doc)
+# print(relavent_doc)
 
 
 llm = OllamaLLM(model="llama3.2")
 # system_prompt = (
 #     "You are a consice AI, you will reply my question with my provided document."
 # )
-# prompt = ChatPromptTemplate.from_messages(
-#     [
-#         ("system", system_prompt),
-#         ("human", "{context}\n\n{input}"), 
-#     ]
-# )
+# # prompt = ChatPromptTemplate.from_messages(
+# #     [
+# #         ("system", system_prompt),
+# #         ("human", "{context}\n\n{input}"),  # 需要包含 {context}
+# #     ]
+# # )
 
-# question_answer_chain = create_stuff_documents_chain(llm, prompt)
-# chain = create_retrieval_chain(retriever, question_answer_chain)
+# # question_answer_chain = create_stuff_documents_chain(llm, prompt)
+# # chain = create_retrieval_chain(retriever, question_answer_chain)
 
-# response = chain.invoke({"input": query})
-# print(response)
+# # response = chain.invoke({"input": query})
+# # print(response)
 
-test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
-print(test)
-
-print("=====================================================")
-
-test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
+# test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
 # print(test)
-response = llm.invoke(test)
-print(response)
+ori = llm.invoke(query)
+print(ori)
+
