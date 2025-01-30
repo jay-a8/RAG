@@ -2,11 +2,9 @@ from langchain_community.document_loaders import TextLoader
 from langchain_ollama import OllamaEmbeddings
 from langchain_core.vectorstores import InMemoryVectorStore
 from langchain_ollama import OllamaLLM
-from langchain.chains import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain.chains import RetrievalQA
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-
 from numpy import dot
 from numpy.linalg import norm
 
@@ -20,84 +18,72 @@ from numpy.linalg import norm
 # 4. stored the embeds into vector store
 # 5. given a query, embed query, and find relevant embeded docs in the vectoratore 
 # 6. asking query with relevant data to LLM model
-# 
 
 import os
-print(os.path.exists("./data.txt"))  #check existence
-
-
+# print(os.path.exists("./data.txt"))  #check existence
 
 # load text, encoding with utf-8
 loader = TextLoader("./data.txt", encoding="utf-8")
 docs = loader.load()
 
-
+# decide token size
 total_length = sum(len(doc.page_content) for doc in docs)
-num_chunks = max(1, len(docs) * 5)
-dynamic_chunk_size = max(100, total_length // num_chunks)
+chunk_size = min(500, max(100, total_length // (len(docs) * 3)))
 
-
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=dynamic_chunk_size,  chunk_overlap=0)
-
+# split doc to toekns
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=50)
 doc_list = text_splitter.split_documents(docs)
-
-print(doc_list[0].page_content)
-
-
-
-# print(doc_list[0])
-
-embeddings = OllamaEmbeddings(model="llama3.2")
+# print(doc_list[0].page_content)
 
 # save embedding and its text into vector store
-vectorstore = InMemoryVectorStore.from_documents(
-    doc_list,
-    embedding=embeddings,
-)
+embeddings = OllamaEmbeddings(model="llama3.2")
+vectorstore = InMemoryVectorStore.from_documents(doc_list, embedding=embeddings)
 
-
-
-query = "who is mark"
-
-# Use the vectorstore as a retriever
+# Use the vectorstore as a retriever, and set the alg to consin similarity
+# returns back one most relavant doc to the query
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 1}) 
 
-# Retrieve the most similar text
-retrieved_documents = retriever.invoke(query)
 
-# show the retrieved document's content
-relavent_doc = retrieved_documents[0].page_content
-print(relavent_doc)
-
-
-query_embedding = embeddings.embed_query(query)
-# print(query_embedding)
-
-
-doc_embedding = embeddings.embed_query(relavent_doc)
-
-cosine_similarity = dot(query_embedding, doc_embedding) / (norm(query_embedding) * norm(doc_embedding))
-
-print(f"similiarty between query and doc: {cosine_similarity:.4f}")
-
+# ==================================================================
+# A better way to retrive and answer the query
 llm = OllamaLLM(model="llama3.2")
-# system_prompt = (
-#     "You are a consice AI, you will reply my question with my provided document."
-# )
-# prompt = ChatPromptTemplate.from_messages(
-#     [
-#         ("system", system_prompt),
-#         ("human", "{context}\n\n{input}"), 
-#     ]
-# )
 
-# question_answer_chain = create_stuff_documents_chain(llm, prompt)
-# chain = create_retrieval_chain(retriever, question_answer_chain)
+custom_prompt = ChatPromptTemplate.from_template(
+    """You are a helpful assistant. Use the provided context to answer the question concisely.
 
-# response = chain.invoke({"input": query})
+    Context:
+    {context}
+
+    Question: {question}
+    Answer:
+    """
+)
+qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type_kwargs={"prompt": custom_prompt})
+
+query = "Who is Mark?"
+response = qa_chain.invoke(query)
+print(response["result"])
+
+
+
+# ==============================================================
+# # A way to ewtreive and answer the query, but this is for testing the difference between with and without the RAG
+# retrieved_documents = retriever.invoke(query) 
+
+# # show the retrieved document's content
+# relavent_doc = retrieved_documents[0].page_content
+
+
+# llm = OllamaLLM(model="llama3.2")
+# query = "Who is Mark?"
+# test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
+# # response = llm.invoke(query)
+# response = llm.invoke(test)
 # print(response)
 
-test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
-# print(test)
-response = llm.invoke(test)
-print(response)
+
+# check cosine_simlarity with query and relavent doc
+# query_embedding = embeddings.embed_query(query)
+# doc_embedding = embeddings.embed_query(retrieved_documents[0].page_content)
+# cosine_similarity = dot(query_embedding, doc_embedding) / (norm(query_embedding) * norm(doc_embedding))
+# print(f"similiarty between query and doc: {cosine_similarity:.4f}")
