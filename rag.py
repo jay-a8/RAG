@@ -30,9 +30,10 @@ docs = loader.load()
 total_length = sum(len(doc.page_content) for doc in docs)
 chunk_size = min(500, max(100, total_length // (len(docs) * 3)))
 
-# split doc to toekns
+# split doc to tokens
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=50)
 doc_list = text_splitter.split_documents(docs)
+
 # print(doc_list[0].page_content)
 
 # save embedding and its text into vector store
@@ -40,7 +41,7 @@ embeddings = OllamaEmbeddings(model="llama3.2")
 vectorstore = InMemoryVectorStore.from_documents(doc_list, embedding=embeddings)
 
 # Use the vectorstore as a retriever, and set the alg to consin similarity
-# returns back one most relavant doc to the query
+# set to returns back one most relavant doc to the query
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 1}) 
 
 
@@ -67,7 +68,9 @@ print(response["result"])
 
 
 # ==============================================================
-# # A way to ewtreive and answer the query, but this is for testing the difference between with and without the RAG
+# # A way to retreive and answer the query, but this is for testing the difference between with and without the RAG
+
+#  query = "Who is Mark?"
 # retrieved_documents = retriever.invoke(query) 
 
 # # show the retrieved document's content
