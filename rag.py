@@ -47,42 +47,46 @@ retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k
 
 # ==================================================================
 # A better way to retrive and answer the query
-llm = OllamaLLM(model="llama3.2")
+# llm = OllamaLLM(model="llama3.2")
 
-custom_prompt = ChatPromptTemplate.from_template(
-    """You are a helpful assistant. Use the provided context to answer the question concisely.
+# custom_prompt = ChatPromptTemplate.from_template(
+#     """You are a helpful assistant. Use the provided context to answer the question concisely.
 
-    Context:
-    {context}
+#     Context:
+#     {context}
 
-    Question: {question}
-    Answer:
-    """
-)
-qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type_kwargs={"prompt": custom_prompt})
+#     Question: {question}
+#     Answer:
+#     """
+# )
+# qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type_kwargs={"prompt": custom_prompt})
 
-query = "Who is Mark?"
-response = qa_chain.invoke(query)
-print(response["result"])
+# query = "Who is Mark?"
+# response = qa_chain.invoke(query)
+# print(response["result"])
 
 
 
 # ==============================================================
 # # A way to retreive and answer the query, but this is for testing the difference between with and without the RAG
 
-#  query = "Who is Mark?"
-# retrieved_documents = retriever.invoke(query) 
+query = "Who is Mark?"
+retrieved_documents = retriever.invoke(query) 
 
-# # show the retrieved document's content
-# relavent_doc = retrieved_documents[0].page_content
+# show the retrieved document's content
+relavent_doc = retrieved_documents[0].page_content
 
 
-# llm = OllamaLLM(model="llama3.2")
-# query = "Who is Mark?"
-# test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
-# # response = llm.invoke(query)
-# response = llm.invoke(test)
-# print(response)
+llm = OllamaLLM(model="llama3.2")
+query = "Who is Mark?"
+test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
+# response = llm.invoke(query)
+response = llm.invoke(test)
+# temperture, topp
+
+print(relavent_doc)
+print("================")
+print(response)
 
 
 # check cosine_simlarity with query and relavent doc
