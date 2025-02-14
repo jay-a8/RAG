@@ -8,6 +8,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from numpy import dot
 from numpy.linalg import norm
 
+#github: https://github.com/jay-a8/RAG
 
 # https://python.langchain.com/v0.2/docs/tutorials/rag/
 # https://python.langchain.com/v0.2/docs/tutorials/local_rag/

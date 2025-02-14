@@ -27,6 +27,6 @@ vectorstore = FAISS.from_documents(docs, embedding=embeddings)
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 2})
 
-query = "what is written in image?"
+query = "describe the image to me."
 retrieved_docs = retriever.invoke(query)
 print(retrieved_docs[0].page_content)
