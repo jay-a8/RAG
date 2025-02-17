@@ -6,7 +6,7 @@ def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def ask_llava(image_path, prompt="You are a consice and accurte AI assistence. Now can you descraibe the image I provided, please?"):
+def ask_llava(image_path, prompt="You are a consice and accurte AI assistence. Now, what do you see in the image I provided, and what does it imply?"):
     image_base64 = encode_image(image_path)
 
     with requests.post("http://localhost:11434/api/generate",
