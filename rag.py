@@ -1,15 +1,18 @@
-from langchain_community.document_loaders import TextLoader
-from langchain_ollama import OllamaEmbeddings
-from langchain_core.vectorstores import InMemoryVectorStore
-from langchain_ollama import OllamaLLM
-from langchain.chains import RetrievalQA
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+import numpy as np
 from numpy import dot
 from numpy.linalg import norm
+from langchain_ollama import OllamaLLM
+from langchain.chains import RetrievalQA
+from langchain_ollama import OllamaEmbeddings
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.vectorstores import InMemoryVectorStore
+from langchain_community.document_loaders import TextLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 
 #github: https://github.com/jay-a8/RAG
 
+# https://python.langchain.com/docs/tutorials/rag/
 # https://python.langchain.com/v0.2/docs/tutorials/rag/
 # https://python.langchain.com/v0.2/docs/tutorials/local_rag/
 
@@ -39,7 +42,7 @@ doc_list = text_splitter.split_documents(docs)
 
 # save embedding and its text into vector store
 # embedding returns the same numbers
-embeddings = OllamaEmbeddings(model="llama3.2")
+embeddings = OllamaEmbeddings(model="nomic-embed-text")
 vectorstore = InMemoryVectorStore.from_documents(doc_list, embedding=embeddings)
 
 # Use the vectorstore as a retriever, and set the alg to consin similarity
@@ -47,18 +50,14 @@ vectorstore = InMemoryVectorStore.from_documents(doc_list, embedding=embeddings)
 # this is the problem, the similarity value changes for documents
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 5}) 
 
-# query = "who is mark?"
-# results = vectorstore.similarity_search_with_score(query, k=5)  # Retrieve top 5 documents
 
-# for doc, score in results:
-#     print(f"Document: {doc.page_content}\nSimilarity Score: {score}\n")
-
-# ==================================================================
+# ==============================================================
 # A better way to retrive and answer the query
 llm = OllamaLLM(model="llama3.2")
 
 custom_prompt = ChatPromptTemplate.from_template(
     """You are a helpful assistant. Use the provided context to answer the question concisely.
+    Also give me the resoning of the answer.
 
     Context:
     {context}
@@ -69,16 +68,40 @@ custom_prompt = ChatPromptTemplate.from_template(
 )
 qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type_kwargs={"prompt": custom_prompt})
 
-query = "Who is Mark?"
+query = "Who is Algernon？"
 response = qa_chain.invoke(query)
 print(response["result"])
 
+# =============================================================
+# output cosine similarity 
 
+def cosine_similarity(vec1, vec2):
+    vec1 = np.array(vec1)
+    vec2 = np.array(vec2)
+    return dot(vec1, vec2) / (norm(vec1) * norm(vec2))
+
+# embedding with model
+results = vectorstore.similarity_search_with_score(query, k=5)
+
+# query embedding
+query_embedding = embeddings.embed_query(query)
+query_embedding = np.array(query_embedding)
+
+# ducoment embedding
+doc_embeddings = {}
+for doc in doc_list:
+    doc_embeddings[doc.page_content] = embeddings.embed_query(doc.page_content)
+
+# manually do cosine similarity on query and documents， and compare with the embedding model
+for doc, score in results:
+    doc_embedding = np.array(doc_embeddings[doc.page_content])
+    cosine_sim = cosine_similarity(query_embedding, doc_embedding)
+    print(f"VectorStore Score: {score}\nManual Cosine Similarity: {cosine_sim:.6f}\n")
 
 # ==============================================================
 # # A way to retreive and answer the query, but this is for testing the difference between with and without the RAG
 
-# query = "Who is Mark?"
+# query = "Who is Algernon？?"
 # retrieved_documents = retriever.invoke(query) 
 
 # # show the retrieved document's content
@@ -86,7 +109,7 @@ print(response["result"])
 
 
 # llm = OllamaLLM(model="llama3.2")
-# query = "Who is Mark?"
+# query = "Who is Algernon？?"
 # test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
 # # response = llm.invoke(query)
 # response = llm.invoke(test)

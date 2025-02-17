@@ -1,51 +1,180 @@
-Mark leaned back in his chair, staring at the holographic display in front of him. His workstation buzzed quietly as endless lines of code scrolled past. Most days, he was lost in his own world, deciphering algorithms and optimizing processes for TechGiant’s latest AI assistant. But today, something felt off. A bug had popped up in the code—a bug that shouldn’t exist.
-
-“Hey, Ava,” Mark called out to the programmer in the next cubicle. She leaned back to peek around the divider, her glasses perched precariously on her nose.
-
-“What’s up?” she asked, her fingers still typing on her keyboard.
-
-“Did you touch the modular AI repository last night? Something weird’s going on,” he said, pointing at the anomaly on his screen.
-
-Ava frowned. “Nope, I left early. Rain was crazy, remember? But now that you mention it, someone’s been running ghost queries in the database. I saw the logs this morning. Could be one of the R&D guys messing around again.”
-
-Mark shook his head. “This isn’t R&D. It’s too... deliberate. Almost like someone’s testing boundaries.”
-
-Ava rolled her chair over to his desk and studied the code. After a moment, her eyebrows raised. “This is an older build. Like, way older. Why would anyone use legacy code? It’s practically a dinosaur by now.”
-
-Mark leaned in closer. “That’s what’s bugging me. The only reason someone would use this is if they wanted to hide their tracks. Modern systems flag unusual behavior, but legacy builds? They fly under the radar.”
-
-They both sat in silence for a moment, the low hum of the office filling the void. Mark glanced at the clock. It was nearing the end of the day, and most of the team had already filtered out. The rain outside blurred the city skyline, casting soft reflections across the glass walls.
-
-“I’ll dig deeper,” Mark said, his voice tinged with determination. “If someone’s poking around, we need to figure out who and why.”
-
-Late that evening, Mark found himself alone in the office. Ava had gone home hours ago, but curiosity had gotten the better of him. His fingers flew over the keyboard as he tracked the ghost queries to a hidden server buried in TechGiant’s network. What he found made his heart race.
-
-The server was running simulations—complex ones—on a project labeled Phoenix. Mark had heard whispers about Phoenix in the hallways, vague mentions of “new tech” and “disruption.” But those were always rumors. Seeing it in action was something else entirely.
-
-The simulations were... strange. They weren’t testing software but replicating human thought patterns. Mark’s jaw tightened. Whoever was behind this wasn’t just tinkering with AI—they were trying to emulate consciousness.
-
-As he delved deeper, he came across a name he hadn’t expected to see: Sarah Bennett. The database logs showed that Sarah, the quiet manager from HR, had accessed the Phoenix server recently. But why? She didn’t even work in development.
-
-Mark jotted her name down, his thoughts racing. He needed answers, but confronting Sarah outright didn’t seem like the best idea. Instead, he decided to loop Ava in tomorrow. Two heads were better than one, and they’d need to tread carefully.
-
-The next day, as the rain continued to pour, Mark met Ava in the café across the street. Over steaming cups of coffee, he filled her in on what he’d found. Ava’s eyes widened as she listened, her curiosity piqued.
-
-“Sarah? From HR? That’s... unexpected,” Ava said, stirring her drink absentmindedly. “But it makes sense. HR has access to all employee profiles. If someone needed personal data to fuel those simulations, they’d go through HR.”
-
-Mark nodded. “Exactly. But the question is, what’s the endgame? And why now?”
-
-Ava leaned back, tapping her fingers on the table. “I say we pay her a visit. She’s nice enough, right? Maybe she’ll let something slip.”
-
-Mark wasn’t so sure. He’d seen enough in the logs to know this wasn’t just a side project—it was something bigger. And if Sarah was involved, she might not even realize how deep she was in.
-
-Later that afternoon, as Mark and Ava approached Sarah’s office, they found it empty. Her workstation was off, her chair neatly pushed in.
-
-“Strange,” Ava muttered.
-
-Mark scanned the room, his eyes landing on a notebook left on the desk. He hesitated but opened it, flipping through pages of handwritten notes. One line caught his attention:
-
-“Sometimes, all it takes is a small step in the right direction to change everything.”
-
-Mark’s stomach twisted. He’d heard those words before—years ago, during a company-wide presentation about Phoenix. The project wasn’t just about advancing AI; it was about transforming humanity’s relationship with technology. And now, it seemed, Sarah had taken that step.
-
-The question was: where would it lead?
+Progris riport 1 martch 3.
+Dr Strauss says I shoud rite down what I think and remembir and evrey thing
+that happins to me from now on. I dont no why but he says its importint so
+they will see if they can use me. I hope they use me becaus Miss Kinnian says
+mabye they can make me smart. I want to be smart. My name is Charlie Gordon
+I werk in Dormers bakery where Mr Donner gives me 11 dollers a week and bred
+or cake if I want. I am 32 yeres old and next munth is my brithday. I tolld
+dr Strauss and perfesser Nemur I cant rite good but he says it dont matter he
+says I shud rite just like I talk and like I rite compushishens in Miss Kinnians
+class at the beekmin collidge center for retarted adults where I go to
+lern 3 times a week on my time off. Dr Strauss says to rite a lot evrything
+I think and evrything that happins to me but I cant think anymor because I
+have nothing to rite so I will close for today... yrs truly Charlie
+Gordon.
+Progris riport 2 - martch 4.
+I had a test today. I think I faled it and I think mabye now they wont use
+me. What happind is I went to Prof Nemurs office on my lunch time like they
+said and his secertery took me to a place that said psych dept on the door
+with a long hall and alot of littel rooms with onley a desk and chares. And
+a nice man was in one of the rooms and he had some wite cards with ink spilld
+all over them. He sed sit down Charlie and make yourself cunfortible and
+rilax. He had a wite coat like a docter but I dont think. he was no docter
+because he dint tell me to opin my mouth and say ah. All he had was those
+wite cards. His name is Burt. I fergot his last name because I dont remember
+I dint know what he was gonna do and I was holding on tite to the chair like
+sometimes when I go to a dentist onley Burt aint no dentist neither but he
+kept telling me to rilax and that gets me skared because it always means its
+gonna hert.
+So Burt sed Charlie what do you see on this card. I saw the spilld ink and
+I was very skared even tho I got my rabits foot in my pockit because when I
+was a kid I always faled tests in school and I spilld ink to.
+I tolld Burt I saw ink spilld on a wite card. Burt said yes and he smild and
+that maid me feel good. He kept terning all the cards and I tolld him
+somebody spilld ink on all of them red and black. I thot that was a easy test
+but when I got up to go Burt stoppd me and said now sit down Charlie we are
+not thru yet. Theres more we got to do with these cards. I dint understand
+about it but I remembir Dr Strauss said do anything the testor telld me even
+if it dont make no sense because thats testing.
+I dont remembir so good what Burt said but I remembir he wantid me to say
+what was in the ink. I dint see nothing in the ink but Burt sed there was
+picturs there. I coudnt see no picturs. I reely tryed to see. I holded the
+card up close and then far away. Then I said if I had my eye glassis I coud
+probaly see better I usully only ware my eyeglassis in the movies or to watch
+TV but I sed maybe they will help me see the picturs in the ink. I put them
+on and I said now let me see the card agars I bet I find it now.
+I tryed hard but I still coudnt find the picturs I only saw the ink. I tolld
+Burt mabey I need new glassis. He rote somthing down on a paper and I got
+skared of faling the test. So I tolld him it was a very nice pictur of ink
+with pritty points all around the eges but he shaked his head so that wasnt
+it neither. I asked him if other pepul saw things in the ink and he sed yes
+they imagen picturs in the inkblot. He tolld me the ink on the card was calld
+inkblot.
+Burt is very nice and he tasks slow like Miss Kinman dose in her class where
+I go to lern reeding for slow adults. He explaned me it was a raw shok test. He
+sed pepul see things in the ink. I said show me where. He dint show me he
+just kept saying think imagen theres something on the card. I tolld him I imaggen
+a inkblot.
+He shaked his head so that wasnt rite eather. He said what does it remind you
+of pretend its something. I closd my eyes for a long time to pretend and then I
+said I pretend a bottel of ink spilld all over a wite card. And thats when
+the point on his pencel broke and then we got up and went out.
+I dont think I passd the raw shok test.
+3d progris riport.
+Martch 5 - Dr Strauss and prof Nemur say it dont matter about the ink on the
+cards. I tolld them I dint spill the ink on them and I coudnt see anything in
+the ink. They said maybe they will still use me. I tolld Dr Strauss that Miss
+Kinnian never gave me tests like that only riting and reeding. He said Miss
+Kinnian tolld him I was her bestist pupil in the Beekman School for retarted
+adults and I tryed the hardist becaus I reely wantd to lern I wantid it more
+even then pepul who are smarter even then me.
+Dr Strauss askd me how come you went to the Beekman School all by yourself
+Charlie. How did you find out about it. I said I dont remembir.
+Prof Nemur said but why did you want to lern to reed and spell in the frist
+place. I tolld him because all my life I wantid to be smart and not dumb and
+my mom always tolld me to try and lern just like Miss Kinnian tells me but
+its very hard to be smart and even when I lern something in Miss Kinnians
+class at the school I ferget alot.
+Dr Strauss rote some things on a peice of paper and prof Nemur talkd to me
+very sereus. He said you know Charlie we are not shure how this experamint
+will werk on pepul because we onley tried it up to now on animils. I said
+s what Miss Kinnian tolld me but I dont even care if it herts or anything
+because Im strong and I will werk hard.
+I want to get smart if they will let me. They said they got to get permissen
+from my familie but my uncle Herman who use to take care of me is ded and I
+dont remember about my familie. I dint see my mother or father or my littel
+sister Norma for a long long long time. Mabye their ded to. Dr Strauss askd me
+where they use to live. I think in brooklin. He sed they will see if mabye they
+can find them.
+I hope I dont have to rite to much of these progris ri-ports because it takes
+along time and I get to sleep very late and Im tired at werk in the morning. Gimpy
+hollered at me because I droppd a tray full of rolles I was carrying
+over to the oven. They got derty and he had to wipe them off before he put
+them in to bake. Gimpy hollers at me all the time when I do something rong,
+but he reely likes me because hes my frend. Boy if I get smart wont he be
+serprised.
+Progris riport 4.
+Mar 6 - I had more crazy tests today in case they use me. That same place but
+a differnt littel testing room. The nice lady who give it to me tolld me the
+name and I askd her how do you spell it so I can put it down rite in my
+progis riport. THEMATIC APPERCEPTON TEST. I dont know the frist 2 werds but
+I know what test means. You got to pass it or you get bad marks.
+This test lookd easy because I coud see the picturs. Only this time she dint
+want me to tell what I saw in the picturs. That mixd me up. I tolld her yesterday
+Burt said I shoud tell what I saw in the ink. She said that dont
+make a difrence because this test is something else. Now you got to make up
+storys about the pepul in the picturs.
+I said how can I tell storys about pepul I dont know. She said make beleeve
+but I tolld her thats lies. I never tell lies any more because when I was a
+kid I made lies and I always got hit. I got a pictur in my walet of me and
+Norma with Uncle Herman who got me the job to be janiter at Dormers bakery
+before he dyed.
+I said I coud make storys about them because I livd with Uncle Herman along
+time but the lady dint want to hear about them. She said this test and the
+other one the raw shok was for getting persinality. I laffd. I tolld her how
+can you get that thing from cards that sombody spilld ink on and fotos of
+pepul you dont even no. She lookd angrey and took the picturs away. I dont
+care.
+I gess I faled that test too.
+Then I drawed some picturs for her but I dont drawer so good. Later the
+other testor Burt in the wite coat came back his name is Burt Selden and he
+took me to a diferent place on the same 4th floor in the Beekman University
+that said PSYCHOLOGY LABORATORY on the door. Burt said PSYCHOLOGY means
+minds and LABORATORY meens a place where they make spearamints. I thot he ment
+like
+where they made the chooing gum but now I think its puzzels and games because
+thats what we did.
+I coudnt werk the puzzels so good because it was all broke and the pieces
+coudnt fit in the holes. One game was a paper with lines in all derections
+and lots of boxs. On one side it said START and on the other end it said
+FINISH. He tolld me that game was amazed and I shoud take the pencil and go
+from where it said START to where it said FINISH withowt crossing over any of
+the lines.
+I dint understand the amazed and we used up a lot of papers. Then Burt said
+look I'll show you something lets go to the sperimental lab mabye youll get
+the idea. We went up to the 5th floor to another room with lots of cages and
+animils they had monkys and some mouses. It had a funny smel like old
+garbidge. And there was other pepul in wite coats playing with the animils so
+I thot it was like a pet store but their wasnt no customers. Burt took a wite
+mouse out of the cage and showd him to me. Burt said thats Algernon and he
+can do this amazed very good. I tolld him you show me how he does that.
+Well do you know he put Algernon in a box like a big tabel with alot of
+twists and terns like all kinds of walls and a START and a FINISH like the
+paper had. Only their was a skreen over the big tabel. And Burt took out his
+clock and lifted up a slidding door and said lets go Algernon and the mouse
+sniffd 2 or 3 times and startid to run. First he ran down one long row and
+then when he saw he coudnt go no more he came back where he startid from and
+he just stood there a minit wiggeling his wiskers. Then he went off in the
+other derection and startid to run again.
+It was just like he was doing the same thing Burt
+wanted me to do with the lines on the paper. I was laffing because I thot it
+was going to be a hard thing for a mouse to do. But then Algernon kept going
+all the way threw that thing all the rite ways till he came out where it said
+FINISH and he made a squeek. Burt says that means he was happy because he did
+the thing rite.
+Boy I said thats a smart mouse. Burt said woud you like to race against
+Algernon. I said sure and he said he had a differnt kind of amaze made of
+wood with rows skratched in it and an electrik stick like a pencil. And he
+coud fix up Algernons amaze to be the same like that one so we could both be
+doing the same kind.
+He moved all the bords around on Algemons tabel because they come apart and
+he could put them together in differnt ways. And then he put the skreen back
+on top so Algernon woudnt jump over any rows to get to the FINISH. Then he
+gave me the electrik stick and showd me how to put it in between the rows and
+Im not suppose to lift it off the bord just follow the little skratches until
+the pencil cant move any more or I get a little shock.
+He took out his clock and he was trying to hide it. So I tryed not to look
+at him and that made me very nervus.
+When he said go I tryed to go but I dint know where to go. I didnt know the
+way to take. Then I herd Algernon squeeking from the box on the tabel and his
+feet skratching like he was runing alredy. I startid to go but I went in the
+rong way and got stuck and a littel shock in my fingers so I went back to the
+START but evertime I went a differnt way I got stuck and a shock. It didnt
+hert or anything just made me jump a littel and Burt said it was to show me
+I did the wrong thing. I was haffway on the bord when I herd Algernon squeek
+like he was happy again and that means he won the race.
+And the other ten times we did it over Algernon won evry time because I
+coudnt find the right rows to get to where it says FINISH. I dint feel bad
+because I watched Algernon and I lernd how to finish the amaze even if it
+takes me along time.
+I dint know mice were so smart.
