@@ -21,7 +21,7 @@ clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
 clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
 # load img
-img = Image.open("./images/lll.png")
+img = Image.open("./images/graph.png")
 
 # calculate embedding
 inputs = clip_processor(images=img, return_tensors="pt")

@@ -68,7 +68,7 @@ custom_prompt = ChatPromptTemplate.from_template(
 )
 qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, chain_type_kwargs={"prompt": custom_prompt})
 
-query = "Who is Algernon？"
+query = "How did Digital twins helps in NAMAC architecture?"
 response = qa_chain.invoke(query)
 print(response["result"])
 
@@ -87,21 +87,21 @@ results = vectorstore.similarity_search_with_score(query, k=5)
 query_embedding = embeddings.embed_query(query)
 query_embedding = np.array(query_embedding)
 
-# ducoment embedding
-doc_embeddings = {}
-for doc in doc_list:
-    doc_embeddings[doc.page_content] = embeddings.embed_query(doc.page_content)
+# # ducoment embedding
+# doc_embeddings = {}
+# for doc in doc_list:
+#     doc_embeddings[doc.page_content] = embeddings.embed_query(doc.page_content)
 
-# manually do cosine similarity on query and documents， and compare with the embedding model
-for doc, score in results:
-    doc_embedding = np.array(doc_embeddings[doc.page_content])
-    cosine_sim = cosine_similarity(query_embedding, doc_embedding)
-    print(f"VectorStore Score: {score}\nManual Cosine Similarity: {cosine_sim:.6f}\n")
+# # manually do cosine similarity on query and documents， and compare with the embedding model
+# for doc, score in results:
+#     doc_embedding = np.array(doc_embeddings[doc.page_content])
+#     cosine_sim = cosine_similarity(query_embedding, doc_embedding)
+#     print(f"VectorStore Score: {score}\nManual Cosine Similarity: {cosine_sim:.6f}\n")
 
 # ==============================================================
 # # A way to retreive and answer the query, but this is for testing the difference between with and without the RAG
 
-# query = "Who is Algernon？?"
+# query = "What is the NAMAC's structure？"
 # retrieved_documents = retriever.invoke(query) 
 
 # # show the retrieved document's content
@@ -109,7 +109,7 @@ for doc, score in results:
 
 
 # llm = OllamaLLM(model="llama3.2")
-# query = "Who is Algernon？?"
+# query = "What is the NAMAC's structure？"
 # test = "You are a consice AI, you will reply my question with my provided data. This is the relavent documentation for this query, pls use it for your answer: " + relavent_doc + "This is the query:" + query
 # # response = llm.invoke(query)
 # response = llm.invoke(test)
