@@ -1,0 +1,51 @@
+Mark leaned back in his chair, staring at the holographic display in front of him. His workstation buzzed quietly as endless lines of code scrolled past. Most days, he was lost in his own world, deciphering algorithms and optimizing processes for TechGiant’s latest AI assistant. But today, something felt off. A bug had popped up in the code—a bug that shouldn’t exist.
+
+“Hey, Ava,” Mark called out to the programmer in the next cubicle. She leaned back to peek around the divider, her glasses perched precariously on her nose.
+
+“What’s up?” she asked, her fingers still typing on her keyboard.
+
+“Did you touch the modular AI repository last night? Something weird’s going on,” he said, pointing at the anomaly on his screen.
+
+Ava frowned. “Nope, I left early. Rain was crazy, remember? But now that you mention it, someone’s been running ghost queries in the database. I saw the logs this morning. Could be one of the R&D guys messing around again.”
+
+Mark shook his head. “This isn’t R&D. It’s too... deliberate. Almost like someone’s testing boundaries.”
+
+Ava rolled her chair over to his desk and studied the code. After a moment, her eyebrows raised. “This is an older build. Like, way older. Why would anyone use legacy code? It’s practically a dinosaur by now.”
+
+Mark leaned in closer. “That’s what’s bugging me. The only reason someone would use this is if they wanted to hide their tracks. Modern systems flag unusual behavior, but legacy builds? They fly under the radar.”
+
+They both sat in silence for a moment, the low hum of the office filling the void. Mark glanced at the clock. It was nearing the end of the day, and most of the team had already filtered out. The rain outside blurred the city skyline, casting soft reflections across the glass walls.
+
+“I’ll dig deeper,” Mark said, his voice tinged with determination. “If someone’s poking around, we need to figure out who and why.”
+
+Late that evening, Mark found himself alone in the office. Ava had gone home hours ago, but curiosity had gotten the better of him. His fingers flew over the keyboard as he tracked the ghost queries to a hidden server buried in TechGiant’s network. What he found made his heart race.
+
+The server was running simulations—complex ones—on a project labeled Phoenix. Mark had heard whispers about Phoenix in the hallways, vague mentions of “new tech” and “disruption.” But those were always rumors. Seeing it in action was something else entirely.
+
+The simulations were... strange. They weren’t testing software but replicating human thought patterns. Mark’s jaw tightened. Whoever was behind this wasn’t just tinkering with AI—they were trying to emulate consciousness.
+
+As he delved deeper, he came across a name he hadn’t expected to see: Sarah Bennett. The database logs showed that Sarah, the quiet manager from HR, had accessed the Phoenix server recently. But why? She didn’t even work in development.
+
+Mark jotted her name down, his thoughts racing. He needed answers, but confronting Sarah outright didn’t seem like the best idea. Instead, he decided to loop Ava in tomorrow. Two heads were better than one, and they’d need to tread carefully.
+
+The next day, as the rain continued to pour, Mark met Ava in the café across the street. Over steaming cups of coffee, he filled her in on what he’d found. Ava’s eyes widened as she listened, her curiosity piqued.
+
+“Sarah? From HR? That’s... unexpected,” Ava said, stirring her drink absentmindedly. “But it makes sense. HR has access to all employee profiles. If someone needed personal data to fuel those simulations, they’d go through HR.”
+
+Mark nodded. “Exactly. But the question is, what’s the endgame? And why now?”
+
+Ava leaned back, tapping her fingers on the table. “I say we pay her a visit. She’s nice enough, right? Maybe she’ll let something slip.”
+
+Mark wasn’t so sure. He’d seen enough in the logs to know this wasn’t just a side project—it was something bigger. And if Sarah was involved, she might not even realize how deep she was in.
+
+Later that afternoon, as Mark and Ava approached Sarah’s office, they found it empty. Her workstation was off, her chair neatly pushed in.
+
+“Strange,” Ava muttered.
+
+Mark scanned the room, his eyes landing on a notebook left on the desk. He hesitated but opened it, flipping through pages of handwritten notes. One line caught his attention:
+
+“Sometimes, all it takes is a small step in the right direction to change everything.”
+
+Mark’s stomach twisted. He’d heard those words before—years ago, during a company-wide presentation about Phoenix. The project wasn’t just about advancing AI; it was about transforming humanity’s relationship with technology. And now, it seemed, Sarah had taken that step.
+
+The question was: where would it lead?

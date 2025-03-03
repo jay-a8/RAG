@@ -13,7 +13,9 @@ def encode_image(image_path):
 
 def ask_llava(image_path, prompt=f"""You are a consice and accurte AI assistence. Now, 
     {text_content}
-    Base on the provided image and text, can you tell me How did Digital twins helps in NAMAC architecture?"""):
+    use the part that is helpful in text to combine with image to answer that:What is happening in the section labeled “A”?
+
+"""):
 
     image_base64 = encode_image(image_path)
 
@@ -29,7 +31,7 @@ def ask_llava(image_path, prompt=f"""You are a consice and accurte AI assistence
         return full_response  # return compelete response 
 
 
-image_path = "./images/workflow.png"
+image_path = "./images/tcp.png"
 # print(os.path.exists(image_path))
 description = ask_llava(image_path)
 print("LLaVA's Response:", description)  # output
